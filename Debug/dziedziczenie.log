@@ -1,0 +1,40 @@
+﻿  Source.cpp
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(74): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(74): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(76): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(88): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(88): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(90): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(101): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(105): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(110): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(112): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(127): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(129): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(134): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(136): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(141): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(143): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(148): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(150): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(174): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(174): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(176): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(200): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(200): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(202): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(207): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(207): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(209): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(214): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(250): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(434): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(682): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(701): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(720): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(738): warning C4018: '<' : signed/unsigned mismatch
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(779): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(799): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(799): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\labsw\desktop\nowe\disco ponad wszystko5\lepszy plig juzdyny\source.cpp(880): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+  dziedziczenie.vcxproj -> C:\Users\LabSW\Desktop\NOWE\disco ponad wszystko5\LEPSZY PLIG JUZDYNY\Debug\dziedziczenie.exe
